@@ -1,0 +1,15 @@
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/gyber_black_frontend
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/GrapeNuts-Regular.ttf
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/Montserrat-Regular.ttf
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/Montserrat-Light.ttf
+/home/superuserfucker/Documents/Code/Flutter/gyber_black_frontend/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
